@@ -1,0 +1,12 @@
+Derived data and documentation in this repository
+(SPDX: CC-BY-4.0) -- Copyright (c) 2026 Yaowei Lin
+
+The derived result tables (out/panel*.csv, out/panel*.npz, out/protocol_audit/reports/**),
+the audit cards, the figure files (out/figs/F*) and the prose in this repository are
+licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+Code (all *.py files) is licensed separately under the MIT License; see LICENSE.
+
+Third-party source datasets are NOT included here and remain under their own terms;
+see DATA_SOURCES.md for how to obtain them.

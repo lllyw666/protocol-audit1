@@ -1,0 +1,37 @@
+PASS  A protocols                                          got=14  claim=14
+PASS  A methods                                            got=243  claim=243
+PASS  A min Spearman                                       got=0.639  claim=0.639
+PASS  A median Spearman                                    got=0.859  claim=0.859
+PASS  A pairs with top-3 Jaccard=0                         got=7  claim=7
+PASS  A distinct winners                                   got=7  claim=7
+PASS  A protocols tying 40/40                              got=5  claim=5
+PASS  A heterogeneity attribution rho                      got=0.509  claim=0.509
+PASS  B methods                                            got=37  claim=37
+PASS  B protocols                                          got=14  claim=14
+PASS  B comparable protocols (common set)                  got=11  claim=11
+PASS  B full-set min Spearman                              got=0.226  claim=0.226
+PASS  B full-set median Spearman                           got=0.701  claim=0.701
+PASS  B downsampled min Spearman                           got=0.047  claim=0.047
+PASS  B downsampled median Spearman                        got=0.552  claim=0.552
+PASS  B full-set ties pooled_ap                            got=3  claim=3
+PASS  B full-set ties pooled_ef1                           got=3  claim=3
+PASS  B full-set ties pooled_ef10                          got=2  claim=2
+PASS  B full-set ties macro_ef1                            got=19  claim=19
+PASS  B full-set ties macro_ef5                            got=23  claim=23
+PASS  B full-set ties macro_ef10                           got=24  claim=24
+PASS  B full-set ties macro_ef20                           got=20  claim=20
+PASS  C 10_targets winners                                 got=5  claim=5
+PASS  C 10_targets comparable protocols                    got=12  claim=12
+PASS  C cao5_targets winners                               got=4  claim=4
+PASS  C cao5_targets comparable protocols                  got=12  claim=12
+PASS  C deterministic pairs (file,definition)              got=43  claim=43
+PASS  C min determinism training accuracy                  got=1.0  claim=1.0
+PASS  D metrics                                            got=35  claim=35
+PASS  D protocols                                          got=48  claim=48
+PASS  D distinct winners                                   got=11  claim=11
+PASS  D hypothesis-H rho                                   got=0.078  claim=0.078
+PASS  D hypothesis-H p                                     got=0.658  claim=0.658
+PASS  E cross-panel cells                                  got=5  claim=5
+PASS  E non-STABLE cells                                   got=5  claim=5
+
+35 PASS / 0 FAIL

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this toolkit or these derived results, please cite both the software and the paper listed below."
+title: "protocol-audit: a protocol-sensitivity audit toolkit for binder-design leaderboards"
+abstract: >-
+  A toolkit that audits how much a de novo binder-design leaderboard depends on the
+  evaluation protocol rather than on the designs, together with the derived per-panel
+  results, bootstrap tensors and figure sources for the accompanying manuscript.
+authors:
+  - family-names: "Lin"
+    given-names: "Yaowei"
+    email: "2410140070@henu.edu.cn"
+version: "1.0.0"
+date-released: "2026-10-14"
+license: MIT
+repository-code: "https://github.com/lllyw666/protocol-audit"
+keywords:
+  - protein design
+  - binder design
+  - benchmarking
+  - evaluation protocol
+  - leaderboard
