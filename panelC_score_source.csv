@@ -1,0 +1,15 @@
+targetset,generator,score_src,n
+10_targets,BindCraft,ptx_iptm,30992
+10_targets,BoltzDesign-1,ptx_mini_iptm,22720
+10_targets,Boltzgen,ptx_mini_iptm,22720
+10_targets,Odesign,ptx_mini_iptm,22720
+10_targets,PXDesign,ptx_mini_iptm,22720
+10_targets,Protpardelle-1c,ptx_mini_iptm,22720
+10_targets,RFDiffusion-3,ptx_mini_iptm,22720
+cao5_targets,BindCraft,ptx_mini_iptm,9696
+cao5_targets,BoltzDesign-1,ptx_mini_iptm,11360
+cao5_targets,Boltzgen,ptx_mini_iptm,11360
+cao5_targets,Odesign,ptx_mini_iptm,11360
+cao5_targets,PXDesign,ptx_mini_iptm,11360
+cao5_targets,Protpardelle-1c,ptx_mini_iptm,11360
+cao5_targets,RFDiffusion-3,ptx_mini_iptm,11360

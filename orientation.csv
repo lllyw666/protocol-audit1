@@ -1,0 +1,17 @@
+score,coverage,auc_raw_primary_label,flipped
+iptm,1.0,0.6363425253991292,False
+plddt,1.0,0.6558490566037736,False
+pae_interaction,1.0,0.38780841799709725,True
+esm_pll,1.0,0.5468214804063861,False
+evoef2_interS_total_per_aa,1.0,0.4332656023222061,True
+evoef2_total_per_aa,1.0,0.39158200290275763,True
+budeff_total_per_aa,1.0,0.43808417997097243,True
+budeff_desolvation_per_aa,1.0,0.5591291727140784,False
+rosetta_total_per_aa,1.0,0.3843831640058055,True
+aggrescan3d_avg_value,1.0,0.602089985486212,False
+hydrophobic_fitness_per_aa,1.0,0.659622641509434,False
+packing_density,1.0,0.465544267053701,True
+ss_prop_loop,1.0,0.5527721335268505,False
+ss_prop_alpha_helix,1.0,0.38287373004354136,True
+isoelectric_point,1.0,0.43222060957910013,True
+num_residues,1.0,0.5747169811320755,False

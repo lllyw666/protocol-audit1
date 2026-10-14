@@ -1,0 +1,51 @@
+{
+  "toolkit_version": "0.1.0",
+  "n_items": 30000,
+  "n_groups": 10,
+  "group_sizes": {
+    "BHRF1": 3000,
+    "H1": 3000,
+    "IL17A": 3000,
+    "IL7RA": 3000,
+    "IR": 3000,
+    "PDL1": 3000,
+    "SC2RBD": 3000,
+    "TNFa": 3000,
+    "TrkA": 3000,
+    "VEGFA": 3000
+  },
+  "n_methods": 11,
+  "n_labels": 3,
+  "n_protocols": 63,
+  "n_comparable_protocols": 63,
+  "n_distinct_winners": 5,
+  "winners": [
+    "alpha",
+    "i_pAE",
+    "i_pTM",
+    "pAE",
+    "score_iptm"
+  ],
+  "winner_counts": {
+    "pAE": 32,
+    "score_iptm": 22,
+    "i_pAE": 4,
+    "i_pTM": 4,
+    "alpha": 1
+  },
+  "pairwise_spearman_min": -0.0239,
+  "pairwise_spearman_median": 0.8155,
+  "pairwise_spearman_frac_negative": 0.0005,
+  "n_boot": 200,
+  "stage_times": {
+    "point_estimates": 0.2,
+    "bootstrap": 37.2
+  },
+  "notes": [
+    "subsampled to <= 3000 items per group (seeded), n = 30000"
+  ],
+  "verdict": "FRAGILE",
+  "median_tied_with_winner": 2,
+  "max_tied_with_winner": 11,
+  "elapsed_s": 37.4
+}

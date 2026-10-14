@@ -1,0 +1,4 @@
+kind,name,reason
+label,bindcraft_success,coverage 18.6%
+label,ptx_large_success,coverage 18.6%
+score,ptx_iptm_binder,coverage 18.6%

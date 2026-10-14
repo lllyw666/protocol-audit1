@@ -1,0 +1,13 @@
+,SR_pooled[af2_easy_success],SR_macro[af2_easy_success],SR_median[af2_easy_success],EF10_macro[af2_easy_success],SR_pooled[af2_opt_success],SR_macro[af2_opt_success],SR_median[af2_opt_success],EF10_macro[af2_opt_success],SR_pooled[ptx_mini_success],SR_macro[ptx_mini_success],SR_median[ptx_mini_success],EF10_macro[ptx_mini_success]
+SR_pooled[af2_easy_success],7,7,7,7,7,7,7,7,7,7,7,6
+SR_macro[af2_easy_success],7,7,7,7,7,7,7,7,7,7,7,6
+SR_median[af2_easy_success],7,7,7,7,7,7,7,7,7,7,7,6
+EF10_macro[af2_easy_success],7,7,7,7,7,7,7,7,7,7,7,6
+SR_pooled[af2_opt_success],7,7,7,7,7,7,7,7,7,7,7,6
+SR_macro[af2_opt_success],7,7,7,7,7,7,7,7,7,7,7,6
+SR_median[af2_opt_success],7,7,7,7,7,7,7,7,7,7,7,6
+EF10_macro[af2_opt_success],7,7,7,7,7,7,7,7,7,7,7,6
+SR_pooled[ptx_mini_success],7,7,7,7,7,7,7,7,7,7,7,6
+SR_macro[ptx_mini_success],7,7,7,7,7,7,7,7,7,7,7,6
+SR_median[ptx_mini_success],7,7,7,7,7,7,7,7,7,7,7,6
+EF10_macro[ptx_mini_success],6,6,6,6,6,6,6,6,6,6,6,6

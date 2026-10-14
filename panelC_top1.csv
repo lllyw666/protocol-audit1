@@ -1,0 +1,13 @@
+,10_targets,cao5_targets
+SR_pooled[af2_easy_success],PXDesign,BindCraft
+SR_macro[af2_easy_success],PXDesign,BindCraft
+SR_median[af2_easy_success],PXDesign,BindCraft
+EF10_macro[af2_easy_success],Odesign,Odesign
+SR_pooled[af2_opt_success],BindCraft,PXDesign
+SR_macro[af2_opt_success],BindCraft,PXDesign
+SR_median[af2_opt_success],PXDesign,BindCraft
+EF10_macro[af2_opt_success],Protpardelle-1c,RFDiffusion-3
+SR_pooled[ptx_mini_success],Boltzgen,PXDesign
+SR_macro[ptx_mini_success],Boltzgen,PXDesign
+SR_median[ptx_mini_success],BindCraft,RFDiffusion-3
+EF10_macro[ptx_mini_success],Protpardelle-1c,Odesign

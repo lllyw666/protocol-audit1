@@ -1,0 +1,6 @@
+panel,dataset,n_methods,n_protocols,n_comparable,n_winners,winners,rho_min,rho_med,pct_sign_disagree,verdict
+A,"Overath 3,669 · wet-lab labels",243,14,14,7,"af3_ipSAE_d0chn, af3_ipSAE_d0dom, af3_ipSAE_min, af3_iptm_avg, af3_max_pae_contact, af3_min_pae_contact, af3_ptm_avg",0.639,0.8587,0.0,MODERATE
+B,"cao 236,246 · wet-lab labels",37,14,14,6,"colabfold_ipae, consensus_all, consensus_iptm, protenix_iptm, protenix_mini_ipae, protenix_plddt",0.2259,0.6821,0.0,MODERATE
+C1,ProtDBench 10_targets · DETERMINISTIC labels,7,12,12,5,"BindCraft, Boltzgen, Odesign, PXDesign, Protpardelle-1c",-0.9643,0.4857,39.4,FRAGILE+SIGN-DISAGREEMENT
+C2,ProtDBench cao5_targets · DETERMINISTIC labels,7,12,12,4,"BindCraft, Odesign, PXDesign, RFDiffusion-3",-0.7714,0.5714,24.2,FRAGILE+SIGN-DISAGREEMENT
+D,Adaptyv EGFR r2 · real SPR (prospective),35,48,48,11,"aggrescan3d_avg_value, consensus_all, hydrophobic_fitness_per_aa, iptm, isoelectric_point, num_residues, pct_aggrescan3d_avg_value, pct_esm_pll, pct_num_residues, plddt, ss_prop_alpha_helix",-0.4025,0.4727,6.1,FRAGILE+SIGN-DISAGREEMENT

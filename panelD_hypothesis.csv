@@ -1,0 +1,5 @@
+iv,dv,n,spearman,p
+rank SD across all 48 protocols,pooled_auc_L_bind,35,0.07759103641456583,0.6577419993881648
+rank SD across all 48 protocols,pooled_ef10_L_bind,35,0.284917530265499,0.09712271731992458
+rank range across all 48 protocols,pooled_auc_L_bind,35,0.04967035062552445,0.7769034507505631
+rank range across all 48 protocols,pooled_ef10_L_bind,35,0.21284001684508255,0.21960715242279583
